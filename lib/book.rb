@@ -7,6 +7,10 @@ class Book
     @title 
   end
   
+  def author 
+    @author 
+  end 
+  
   def genre 
     @genre 
   end 
