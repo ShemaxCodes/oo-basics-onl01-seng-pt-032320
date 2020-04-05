@@ -6,6 +6,10 @@ class Book
   def title 
     @title 
   end
+  
+  def genre 
+    @genre 
+  end 
 end 
 
 
