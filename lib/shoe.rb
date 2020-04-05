@@ -9,5 +9,9 @@ class Shoe
   def brand 
     @brand 
   end 
-
+  
+  def cobble 
+    puts "Shoe condition is new"
+  
+  
 end 
