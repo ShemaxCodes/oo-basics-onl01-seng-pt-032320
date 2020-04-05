@@ -12,6 +12,7 @@ class Shoe
   
   def cobble 
     puts "Shoe condition is new"
+  end 
   
   
 end 
